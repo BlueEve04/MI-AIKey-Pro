@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- 按键底部的阴影 -->
+    <group android:translateY="4">
+        <path
+            android:fillColor="#1E4FD0"
+            android:pathData="M42,24 H66 A16,16 0 0 1 82,40 V64 A16,16 0 0 1 66,80 H42 A16,16 0 0 1 26,64 V40 A16,16 0 0 1 42,24 Z" />
+    </group>
+
+    <!-- 白色键帽 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,24 H66 A16,16 0 0 1 82,40 V64 A16,16 0 0 1 66,80 H42 A16,16 0 0 1 26,64 V40 A16,16 0 0 1 42,24 Z" />
+
+    <!-- 中间的 AI 星芒 -->
+    <path
+        android:fillColor="#2F6BFF"
+        android:pathData="M54,36 C56.2,45.8 58.2,47.8 68,50 C58.2,52.2 56.2,54.2 54,64 C51.8,54.2 49.8,52.2 40,50 C49.8,47.8 51.8,45.8 54,36 Z" />
+</vector>
