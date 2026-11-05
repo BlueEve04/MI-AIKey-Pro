@@ -13,11 +13,11 @@ android {
     compileSdk = 37
 
     defaultConfig {
-        applicationId = "com.blueeve.aikeypro"
+        applicationId = "io.github.blueeve04.aikeypro"
         minSdk = 31
         targetSdk = 37
-        versionCode = 3
-        versionName = "1.0.0"
+        versionCode = 4
+        versionName = "1.0.1"
     }
 
     signingConfigs {
